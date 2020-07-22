@@ -5,6 +5,7 @@
 - 🌱 Looking for New Grad Software Engineer Roles after May 2021
 - 📫 Reach me via my [LinkedIn](linkedin.com/in/monicab8) or email @ bui1@ualberta.ca
 - 😄 Talk to me about internship hunting, STEM mentorship, fullstack software development, hockey, videogames
+- 💬 Previously did a 1 year coop with Intuit and a summer internship with ATB Financial 
 
 <!--
 **bui1/bui1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
