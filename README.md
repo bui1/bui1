@@ -3,7 +3,7 @@
 - ⚡ I'm a Software Engineer Intern working with Square on the main merchant [Dashboard](https://squareup.com/ca/en/point-of-sale/features/dashboard) platform that is the main gateway towards all of Square's product ecosystem
 - 🔭 In my final year of Computing Science at the University of Alberta
 - 🌱 Looking for New Grad Software Engineer Roles after May 2021
-- 📫 Reach me via my [LinkedIn](linkedin.com/in/monicab8) or email @ bui1@ualberta.ca
+- 📫 Reach me via my [LinkedIn](https://linkedin.com/in/monicab8) or email @ bui1@ualberta.ca
 - 😄 Talk to me about internship hunting, STEM mentorship, fullstack software development, hockey, videogames
 - 💬 Previously did a 1 year coop with Intuit and a summer internship with ATB Financial 
 
