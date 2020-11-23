@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 In my final year of Computing Science at the University of Alberta
-- 🌱 Looking for New Grad Software Engineer Roles after May 2021
+- 🌱 Incoming Software Engineer at Square 2021
 - 📫 Reach me via my [LinkedIn](https://linkedin.com/in/monicab8) or email @ bui1@ualberta.ca
 - 😄 Talk to me about internship hunting, STEM mentorship, fullstack software development, hockey, videogames
 - 💬 Previously interned at Square with the Dashboard team, did a 1 year coop with the Intuit Billing team, and a summer internship with ATB Financial on the Enterprise API team
