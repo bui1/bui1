@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 In my final year of Computing Science at the University of Alberta
-- 🌱 Incoming Software Engineer at Square 2021
+- 🔭 Software Engineer at Square!
+- 🌱 Graduated from the University of Alberta in Computing Science
 - 📫 Reach me via my [LinkedIn](https://linkedin.com/in/monicab8) or email @ bui1@ualberta.ca
-- 😄 Talk to me about internship hunting, STEM mentorship, fullstack software development, hockey, videogames
-- 💬 Previously interned at Square with the Dashboard team, did a 1 year coop with the Intuit Billing team, and a summer internship with ATB Financial on the Enterprise API team
+- 😄 Talk to me about internship hunting, early career, STEM mentorship, fullstack software development, hockey, and videogames
+- 💬 Previously interned at Square, Intuit, and ATB Financial 
 
 <!--
 **bui1/bui1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
